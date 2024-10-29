@@ -5,31 +5,36 @@
 ## 1. Start and Configure Databases
 
 ### GCP 
-
+- Configuration 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/GCP_bigq1.png) 
 
 
 ### MongoDB
-
+- Configuration 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/mongodb1.png) 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/mongodb2.png)
 
 ### Redis
+- Configuration 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/redis_1.png)
 
 ## 2. Explore BigQuery (GCP)
-
+- Image of query that was run and results 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/GCP_bigq2.png) 
 
 
 ## 3. Modify and Explore the Data in MongoDB Atlas and Redis Cloud
 
 ### MongoDB 
-
+- Image of query that was run and results 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/mongodb3.png)
 
 ### Redis
-
+- Image of query that was run and results
+- Couldnt quite get the set function to work how I wanted
+- Documentation was easy to get to
+- Wished they used some real world examples
+- Makes learning what parameters for function a little difficult 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/redis_2.png)
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_nosql_dbs/blob/main/redis_3.png)
 
@@ -65,9 +70,12 @@
   - Auto configured the database
   - Added keys to the data base
 - General thoughts
-  - Similar to mongo DB 
+  - Similar to mongo DB with easy to use GUI
+  - Good links to documentation
+  - Also can easily find what functions you need to use
+  - Still need some more practice as this is first time with non relational database
 
-
+- All and all the 3 tools used are pretty new user friendly and provide good documentation to learn.
 
 
 
